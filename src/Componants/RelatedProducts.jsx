@@ -2,8 +2,10 @@ import OppoF19 from "../assets/OppoF19.png";
 export default function RelatedProducts() {
   return (
     <>
-      <div className="container mt-5">
+      <div className="container mt-5 d-flex flex-column gap-4 ">
+        <h3>Related Products</h3>
         <div className=" row  g-4 ">
+
           <div className=" col-3">
             <div
               className="  p-4  rounded text-center d-flex flex-column gap-3"

@@ -3,7 +3,7 @@ import { faTruck, faStore, faShield } from "@fortawesome/free-solid-svg-icons";
 export default function DetailsRight() {
     return (
         <>
-         <div className="DetailsRight col-6 h-100 d-flex flex-column gap-4">
+         <div className="DetailsRight col-6 h-100 d-flex flex-column gap-5">
         <h1 className="fw-bold">Apple iPhone 14 Pro Max</h1>
         <div className="price d-flex gap-3 align-items-center">
             
