@@ -4,7 +4,7 @@ export default function RelatedProducts() {
     <>
       <div className="container mt-5 d-flex flex-column gap-4 ">
         <h3>Related Products</h3>
-        <div className=" row  g-4 ">
+        <div className=" row mx-0 g-4 ">
 
           <div className=" col-3">
             <div
